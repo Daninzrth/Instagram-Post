@@ -1,0 +1,54 @@
+
+.container {
+    margin-top: 45px ;
+    margin-bottom: 45px;
+    height: auto;
+}
+
+body {
+    background-color: rgb(221, 221, 221);
+    margin: 0;
+}
+.post {
+    background-color: white;
+    width: 600px;
+    height: auto;
+    margin: auto;
+}
+img {
+    width: 600;
+}
+.encabezado div, .iconos div {
+    display: inline-block;
+}
+.iconos div span, span {
+    float: left; 
+}
+.primeroslogos {
+    width: 550px;
+    margin-left: 10px;
+}
+.encabezado p {
+    margin-bottom: 10px;
+    width: 500px;
+}
+.encabezado {
+    height: 70px;
+    font-size: 20px;
+}
+p {
+    margin-top: 2px;
+    margin-left: 10px;
+    height: 45px;
+}
+.text {
+    margin-top: 15px;
+    height: 100px;
+}
+.logo {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+i {
+    font-size: 30px;
+}
